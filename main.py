@@ -1,0 +1,10 @@
+print('Welcome To The airport')
+Ticket = int (input('Enter the ticket number pls : '))
+name  =  input('Enter The Full Name: ')
+age = int (input('Pls Enter Your Age: '))
+Country = (input('Where are you from? : '))
+travel = (input('Where are you traveling? :'))
+Price = float(input('Price: '))
+Seat = int(input('Your Seat Number: '))
+
+print('Have a Good day ')
